@@ -1,0 +1,6 @@
+[submodule "gluegen"]
+	path = gluegen
+	url = https://github.com/java-opengl-labs/gluegen.git
+[submodule "jogl"]
+	path = jogl
+	url = https://github.com/java-opengl-labs/jogl.git
